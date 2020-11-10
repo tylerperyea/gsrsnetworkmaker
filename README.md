@@ -1,0 +1,4 @@
+Barebones java maven project
+============================
+
+
